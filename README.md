@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 FRIDAY — AI Voice Assistant
+# AI Voice Assistant
 
 **A React-powered voice assistant with real-time speech recognition, day-aware intelligence, and a futuristic holographic UI.**
 
@@ -19,7 +19,7 @@
 
 ## 📖 About
 
-**FRIDAY** (Fully Responsive Intelligent Digital Assistant, Your Assistant) is a browser-based AI voice assistant built with React. Inspired by Iron Man's J.A.R.V.I.S., it listens to your natural voice commands, processes them in real time, and responds with synthesized speech — all wrapped in a sci-fi holographic interface.
+ **(Fully Responsive Intelligent Digital Assistant, Your Assistant) is a browser-based AI voice assistant built with React. Inspired by Iron Man's J.A.R.V.I.S., it listens to your natural voice commands, processes them in real time, and responds with synthesized speech — all wrapped in a sci-fi holographic interface.
 
 The assistant is day-aware: every time you open it, it reads the actual current day, date, and time from your system clock — so it never says "Friday" if it's actually a Monday.
 
@@ -162,7 +162,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 Built with ❤️ using React & Web Speech API
-
-*"How can I help you today, Sir?"*
 
 </div>
